@@ -20,19 +20,19 @@ Most of the code in this course will be in the format of Python [Jupyter Noteboo
 
 The following schedule is tentative and subject to changes.
 
-Session|Date|Topic|Jupyter Notebook|Slides|Assignment|Solution|Video|Video PW|Note-Pre|Note-Post|
-:-------:|:---:|:----:|:---------------:|:-----:|:---------:|:-------:|:---:|:---:|:---:|:--:|
-|1|12.04|Introduction||||||||
-|2|12.11|Code w/ AI||||||||
-|3|12.18|Linear Models||||||||
-|4|01.08|BV Trade-off||||||||
-|5|01.15|Trees||||||||
-|6|01.22|Ensemble||||||||
-|7|01.29|Clustering||||||||
-|8|02.06|PCA||||||||
-|9|02.19|Neural Networks||||||||
-|10|02.26|Generative AI||||||||
-|11|03.02 (2:00PM)|Final Exam||||||||
+Session|Date|Topic|Jupyter Notebook|Slides|Assignment|Solution|Video|Video PW|Note|
+:-------:|:---:|:----:|:---------------:|:-----:|:---------:|:-------:|:---:|:---:|:---:|
+|1|12.04|Introduction|||||||
+|2|12.11|Code w/ AI|||||||
+|3|12.18|Linear Models|||||||
+|4|01.08|BV Trade-off|||||||
+|5|01.15|Trees|||||||
+|6|01.22|Ensemble|||||||
+|7|01.29|Clustering|||||||
+|8|02.06|PCA|||||||
+|9|02.19|Neural Networks|||||||
+|10|02.26|Generative AI|||||||
+|11|03.02 (2:00PM)|Final Exam|||||||
 
 ## Projects
 
