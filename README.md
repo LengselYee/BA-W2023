@@ -57,8 +57,8 @@ We will have a final exam at 2:00PM on March 2. The exam will cover the entire c
 
 We provide a lot of references for both Python programming and Analytics. For more information, please visit the links below.
 
-- [Python References](https://github.com/DSME-6756-23/BA-W2022/tree/main/Python%20References)
-- [Analytics References](https://github.com/DSME-6756-23/BA-W2022/tree/main/Analytics%20References)
-- [SQL References](https://github.com/DSME-6756-23/BA-W2022/tree/main/SQL%20References)
+- [Python References](https://github.com/DSME6756-2023/BA-W2023/tree/main/Python%20References)
+- [Analytics References](https://github.com/DSME6756-2023/BA-W2023/tree/main/Analytics%20References)
+- [SQL References](https://github.com/DSME6756-2023/BA-W2023/tree/main/SQL%20References)
 
 If you are unfamilar with GitHub, please read [this doc](https://docs.github.com/en/get-started/quickstart). However, it will suffice to know the very basics of GitHub for the need of this course.
