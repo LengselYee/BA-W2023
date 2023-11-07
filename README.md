@@ -50,7 +50,7 @@ We will have a final exam at 2:00PM on March 2. The exam will cover the entire c
 
 |Time|Location|Format|Instruction|Sample Exam and Solution|Cheat Sheet|Real Exam and Solution|
 :---------------------:|:------:|:----:|:---------:|:------------------------:|:----------:|:-----:|
-|2:00pm-5:00pm, Sunday, March 2|||||||
+|2:00pm-5:00pm, Saturday, March 2|||||||
 
 
 ## Resources
