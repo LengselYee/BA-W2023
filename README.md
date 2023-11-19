@@ -7,7 +7,7 @@
 * *Teaching Assistant*: [Qinlu Hu](https://grad.bschool.cuhk.edu.hk/students/hu-qinlu/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School.
 
 ## About
-Welcome to the mono-repo for the Business Intelligence Technologies and Applications (DSME 6756BA/B) course. You may download the [Syllabus](https://github.com/DSME6756-2023/BA-W2023/blob/main/Syllabus/BITA-Syllabus-W2023.pdf) of this course first. If you have any feedback on this course, please submit it via this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfcNV72Bs3qwV-MfuaBzOIokuTTHAD0jnX5rRjtdRyURi0OVw/viewform) and we will try our best to address it.
+Welcome to the mono-repo for the Business Intelligence Technologies and Applications (DSME 6756BA/B) course. You may download the [Syllabus](https://github.com/DSME6756-2023/BA-W2023/blob/main/Syllabus/BITA-Syllabus-W2023.pdf) of this course first. Please refer to [this document](https://github.com/DSME6756-2023/BA-W2023/blob/main/Syllabus/Join_GitHub.pdf) to join this GitHub repo. If you have any feedback on this course, please submit it via this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfcNV72Bs3qwV-MfuaBzOIokuTTHAD0jnX5rRjtdRyURi0OVw/viewform) and we will try our best to address it.
 
 The course will be carried out in person in Wu Ho Man Yuen Building (WMY) 508 (Morning Section) and Yasumoto International Academic Park (YIA) LT6 (Afternoon Section). Please ask for my approval if you need to join us via the following Zoom links:
 
