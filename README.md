@@ -22,7 +22,7 @@ The following schedule is tentative and subject to changes.
 
 Session|Date|Topic|Jupyter Notebook|Slides|Assignment|Solution|Video|Video PW|Note|
 :-------:|:---:|:----:|:---------------:|:-----:|:---------:|:-------:|:---:|:---:|:---:|
-|1|12.04|Introduction||[Intro](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1a-Introduction.pdf)|||||
+|1|12.04|Introduction||[Intro](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1a-Introduction.pdf) [Python](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1b-PythonBasics.pdf)|||||
 |2|12.11|Code w/ AI|||||||
 |3|12.18|Linear Models|||||||
 |4|01.08|BV Trade-off|||||||
