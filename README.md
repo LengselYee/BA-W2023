@@ -4,7 +4,7 @@
 ## Teaching Team
 
 * *Instructor*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html), Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
-* *Teaching Assistant*: [Qinlu Hu](https://grad.bschool.cuhk.edu.hk/students/hu-qinlu/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School.
+* *Teaching Assistant*: [Qinlu Hu](https://grad.bschool.cuhk.edu.hk/students/hu-qinlu/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School, qinlu.hu@link.cuhk.edu.hk.
 
 ## About
 Welcome to the mono-repo for the Business Intelligence Technologies and Applications (DSME 6756BA/B) course. You may download the [Syllabus](https://github.com/DSME6756-2023/BA-W2023/blob/main/Syllabus/BITA-Syllabus-W2023.pdf) of this course first. Please refer to [this document](https://github.com/DSME6756-2023/BA-W2023/blob/main/Syllabus/Join_GitHub.pdf) to join this GitHub repo. If you have any feedback on this course, please submit it via this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfcNV72Bs3qwV-MfuaBzOIokuTTHAD0jnX5rRjtdRyURi0OVw/viewform) and we will try our best to address it.
