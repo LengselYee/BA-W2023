@@ -22,7 +22,7 @@ The following schedule is tentative and subject to changes.
 
 Session|Date|Topic|Jupyter Notebook|Slides|Assignment|Solution|Video|Video PW|Note|
 :-------:|:---:|:----:|:---------------:|:-----:|:---------:|:-------:|:---:|:---:|:---:|
-|1|12.04|Introduction|[Python](https://github.com/DSME6756-2023/BA-W2023/blob/main/Jupyter%20Notebooks/Session%201/1-Python_DA_Basics.ipynb) [Live Code](https://github.com/DSME6756-2023/BA-W2023/blob/main/Jupyter%20Notebooks/Session%201/1.1-Live-Coding.ipynb)|[Intro](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1a-Introduction.pdf) [Python](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1b-PythonBasics.pdf)|[PS1](https://github.com/DSME6756-2023/BA-W2023/tree/main/Problem%20Sets/PS1)||||
+|1|12.04|Introduction|[Python](https://github.com/DSME6756-2023/BA-W2023/blob/main/Jupyter%20Notebooks/Session%201/1-Python_DA_Basics.ipynb) [Live Code](https://github.com/DSME6756-2023/BA-W2023/blob/main/Jupyter%20Notebooks/Session%201/1.1-Live-Coding.ipynb)|[Intro](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1a-Introduction.pdf) [Python](https://github.com/DSME6756-2023/BA-W2023/blob/main/Slides/BA-W2023-1b-PythonBasics.pdf)|[PS1](https://github.com/DSME6756-2023/BA-W2023/tree/main/Problem%20Sets/PS1)||[Link](https://cuhk.zoom.us/rec/share/3YtAE57QLWldo3S71mdNtMtKtP-HdxgUy_eFT8YNTZTyNaU0pbM0o2TxB5uxuQp0.0yS1zcvfBVolehNT)|ttHN.MS2|
 |2|12.11|Code w/ AI|||||||
 |3|12.18|Linear Models|||||||
 |4|01.08|BV Trade-off|||||||
